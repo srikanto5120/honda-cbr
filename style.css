@@ -46,3 +46,11 @@
     color: black;
 
 }
+.products{
+    opacity: 0;
+    transition: .5s ease;
+}
+.card:hover .products{
+    background-color: rgba(125, 210, 243, 0.397);
+    opacity: 1;
+}
