@@ -1,0 +1,48 @@
+.header-background{
+
+    
+    background-color: #264653;
+    font-family: Poppins;
+
+}
+.header-background h1{
+  
+     font-size: 48px;
+     
+}
+.header-pragraph{
+    color:   #E0E0E0;
+    ;
+}
+.header-btn{
+    background-color: #E76F51;
+    color: #fff;
+    padding: 15px 50px;
+    border-radius: 5px;
+}
+.hr{
+    border: 2px solid red;
+    width: 50px;
+    margin-top: -20px;
+}
+.hr:hover{
+    border: 2px solid rgb(2, 2, 240);
+}
+.feature-bike{
+    filter: grayscale(100%);
+}
+.heading{
+    font-size: 48px;
+}
+ span{
+    color: #E76F51;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    text-decoration: none;
+    color: black;
+
+}
