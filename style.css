@@ -57,3 +57,11 @@
     background-color: rgba(125, 210, 243, 0.397);
     opacity: 1;
 }
+ 
+
+.quation-bg{
+    background-color: rgb(224, 224, 224);
+}
+.quation-rasio{
+    font-size: 40px;
+}
