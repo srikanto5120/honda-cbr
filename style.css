@@ -15,7 +15,7 @@
 }
 .header-pragraph{
     color:   #E0E0E0;
-    ;
+    
 }
 .header-btn{
     background-color: #E76F51;
@@ -23,6 +23,7 @@
     padding: 15px 50px;
     border-radius: 5px;
 }
+
 .hr{
     border: 2px solid red;
     width: 50px;
@@ -30,6 +31,9 @@
 }
 .hr:hover{
     border: 2px solid rgb(2, 2, 240);
+}
+.main-semantic{
+    overflow-x: hidden;
 }
 .feature-bike{
     filter: grayscale(100%);
